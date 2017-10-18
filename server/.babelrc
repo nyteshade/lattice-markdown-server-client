@@ -1,0 +1,24 @@
+{
+  "sourceMaps": "both",
+  "presets": [
+    "flow",
+    "react",
+    [
+      "env",
+      {
+        "targets": {
+          "node": "current"
+        },
+        "modules": "commonjs",
+        "useBuiltIns": false,
+        "debug": true,
+        "loose": false
+      }
+    ]
+  ],
+  "plugins": [
+    [ "transform-class-properties", { "spec": true } ],
+    "transform-decorators-legacy",
+    "transform-runtime"
+  ]
+}
