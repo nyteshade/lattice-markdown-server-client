@@ -42,7 +42,7 @@
     "graphql-lattice": "^2.9.2",
     "graphql-tag": "^2.4.2",
     "html-webpack-plugin": "2.29.0",
-    "jest": "20.0.4",
+    "jest": "24.0.0",
     "morgan": "~1.8.1",
     "ne-tag-fns": "^0.1.0",
     "object-assign": "4.1.1",
