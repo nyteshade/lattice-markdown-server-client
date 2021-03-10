@@ -51,7 +51,7 @@
     "promise": "8.0.1",
     "react": "^16.0.0",
     "react-apollo": "^1.4.16",
-    "react-dev-utils": "^4.1.0",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.0.0",
     "react-remarkable": "^1.1.2",
     "react-test-renderer": "^16.0.0",
