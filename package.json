@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "dependencies": {
     "apollo-client": "^1.9.3",
-    "apollo-client-preset": "0.1.0-1",
+    "apollo-client-preset": "1.0.8",
     "autoprefixer": "7.1.2",
     "babel-cli": "^6.26.0",
     "babel-core": "6.26.0",
